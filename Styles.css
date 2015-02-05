@@ -1,5 +1,8 @@
 h1 { 
 	color:green;
 	font-size: 72px;
-	font-family: Lucida;
+	font-family: ;
+}
+* { 
+	background-color: green;
 }
