@@ -1,5 +1,5 @@
 h1 { 
-	color:green;
+	color:black;
 	font-size: 35px;
 	font-family: ;
 	z-index;
@@ -7,4 +7,7 @@ h1 {
 }
 * {
 	background-color:#CCCCB2;
+}
+head p {
+	text-align:center;
 }
