@@ -11,3 +11,10 @@ h1 {
 head p {
 	text-align:center;
 }
+.nav {
+	height:40px;
+}
+.nav ul {
+	margin:0px;
+	padding:0px;
+}
