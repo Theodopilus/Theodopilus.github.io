@@ -1,17 +1,4 @@
-h1 { 
-	color:black;
-	font-size: 35px;
-	font-family: ;
-	z-index;
-	text-align: center;
-}
-* {
+
+body {
 	background-color:#CCCCB2;
-}
-.nav {
-	height:40px;
-}
-.nav ul {
-	margin:0px;
-	padding:0px;
 }
